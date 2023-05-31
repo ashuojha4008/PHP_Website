@@ -1,0 +1,34 @@
+.ss{
+    margin-left: 80% !important;
+}
+
+/* .ss :hover{
+    color: blueviolet;
+  } */
+
+.abc{
+    margin-left: 500px !important;
+}
+
+.xyz :hover{
+    color: blueviolet;
+    /* transform: scale(1.05); */
+  }
+
+.carousel-inner{
+    height: 95vh;
+}
+
+.car-image{
+    margin-left: 50%;
+}
+
+.carousel-caption{
+    margin-right: 50%;
+    margin-bottom: 15%;
+}
+
+body{
+    overflow-x: hidden;
+}
+
